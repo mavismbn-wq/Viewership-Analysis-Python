@@ -1,2 +1,21 @@
 # Viewership-Analysis-Python
-EDA to view data given using the python, analyse how the type of data i have and how many rows column. if any given data is true and get all the unknown given
+EDA to viewership Analysis use 
+1. Dependacy
+2. Meta Data
+3. Libraries
+4. Pandas
+5. Numpy
+   
+- Data given using the python Analys
+- How many Rows
+- How many column
+- Ho
+- Is data have Null
+- What Iformation can we get
+- Is the any dublicate in the dataset, if Yes view them 
+
+#tools to use
+- Excel to view data set
+- Data bricks for coding
+- Ms Word for adding findings 
+
